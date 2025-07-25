@@ -2,7 +2,7 @@
 It's my graduation project
 
 # What about it?
-It's about a discord bot that can respond to questions, and which can run simple stuff, like flipflop, dice, coinflip, and more.
+It's about a discord bot that can respond to questions, and which can run simple stuff, like dice, coinflip, and more.
 
 Sorry, you can't run the bot's program because there is no token inside it.
 
